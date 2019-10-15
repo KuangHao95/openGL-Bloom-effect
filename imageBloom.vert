@@ -1,13 +1,7 @@
 // FILE: imageBloom.vert
 
 //============================================================================
-// STUDENT NAME:
-// MATRIC NO.  :
-// NUSNET ID   :
-// COMMENTS TO GRADER:
-//
-//============================================================================
-
+// STUDENT NAME: Kuang Hao
 // VERTEX SHADER
 
 #version 430 core
