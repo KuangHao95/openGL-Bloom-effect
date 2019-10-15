@@ -1,13 +1,6 @@
 // FILE: imageBloom.frag
-
 //============================================================================
-// STUDENT NAME:
-// MATRIC NO.  :
-// NUSNET ID   :
-// COMMENTS TO GRADER:
-//
-//============================================================================
-
+// STUDENT NAME: Kuang Hao
 // FRAGMENT SHADER
 
 #version 430 core
